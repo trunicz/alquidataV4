@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "GokuKEO",
+      "uniqueId": "dd2077ad-ec71-4f67-82d3-e75da8262709"
+    },
+    "time": 1776759126117,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/fo48l655zm"
+    }
+  }
+]
