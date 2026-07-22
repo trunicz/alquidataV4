@@ -1,0 +1,18 @@
+[
+  {
+    "id": "survival-1",
+    "slug": "survival",
+    "name": "Alquimiatro Survival",
+    "isDefault": true,
+    "ip": "mc.alquimiatro.com",
+    "port": 25565,
+    "minecraft": {
+      "version": "1.20.1",
+      "loader": {
+        "loader": "fabric",
+        "version": "0.15.11"
+      },
+      "modpackUrl": "https://raw.githubusercontent.com/trunicz/alquidataV4/main/modpack.json"
+    }
+  }
+]

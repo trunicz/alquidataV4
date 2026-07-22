@@ -1,0 +1,11 @@
+{
+  "name": "Alquimiatro Pack",
+  "version": "1.0.0",
+  "files": [
+    {
+      "url": "https://github.com/trunicz/alquidataV4/mods.zip",
+      "dest": "mods.zip",
+      "type": "zip"
+    }
+  ]
+}
