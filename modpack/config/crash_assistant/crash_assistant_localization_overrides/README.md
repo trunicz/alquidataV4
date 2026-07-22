@@ -14,7 +14,7 @@ files.
 * **GitHub Repository:**
   [https://github.com/KostromDan/Crash-Assistant/](https://github.com/KostromDan/Crash-Assistant/)
 * **Language File Location:** The source files are located at
-  `common_config/src/main/resources/crash_assistant_localization` in the repository.
+  `common_config/src/main/modpack/resources/crash_assistant_localization` in the repository.
 
 ---
 

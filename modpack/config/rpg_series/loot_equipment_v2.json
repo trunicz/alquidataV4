@@ -4641,7 +4641,7 @@
         }
       ]
     },
-    "terralith:ruin/glacial/main_cs": {
+    "terralith:ruin/glacial/main/modpack_cs": {
       "rolls": 0.5,
       "bonus_rolls": 0.2,
       "entries": [
