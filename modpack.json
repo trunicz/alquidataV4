@@ -689,14 +689,6 @@
          "type":"OTHER"
       },
       {
-         "name":"Refreshing Soundtracks!.zip",
-         "path":"resourcepacks/",
-         "size":124276792,
-         "sha1":"ac5c3fbcb2f7ab618f658b0348c3d52cca57b71c",
-         "url":"https://raw.githubusercontent.com/trunicz/alquidataV4/main//resourcepacks/Refreshing Soundtracks!.zip",
-         "type":"OTHER"
-      },
-      {
          "name":"abridged-2.0.1-neoforge-1.21.1.jar",
          "path":"mods/",
          "size":120683,
